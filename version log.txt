@@ -1,0 +1,3 @@
+Versions (format: DD/MM/YY):
+wAIfu 1.1 - 25/05/2023 (CURRENT)
+wAIfu 1.0 - 02/03/2023
